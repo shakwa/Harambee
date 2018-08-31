@@ -45,10 +45,9 @@ Make sure PDO driver is enabled on your server, if not, you should ask your host
 
 After you have uploaded all files can start to setup the files.
 
-####Database Connection/Mail Set Up
+#### Database Connection/Mail Set Up
 
-    Open the file .env located in your root folder, with any text editor, e.g: NOTEPAD ( IMPORTANT: You can not find the file and you are using cPanel click show hidden files )
-    change the following parameters, for theirs:
+Open the file .env located in your root folder, with any text editor, e.g: NOTEPAD ( IMPORTANT: You can not find the file and you are using cPanel click show hidden files ) change the following parameters, for theirs:
 
 Database Connection
 
@@ -62,8 +61,8 @@ Database Connection
 place all data without spaces
 Save and close.
 
-    Mail Set Up
-    Open the file mail.php located in the folder config, with any text editor, e.g: NOTEPAD
+#### Mail Set Up
+Open the file mail.php located in the folder config, with any text editor, e.g: NOTEPAD
 
         ```php
       	'from' => [
@@ -72,7 +71,7 @@ Save and close.
         ],
         ```  
 
-    Save and close.
+Save and close.
 
 D) Settings Admin Panel - top
 Access to admin panel
@@ -83,21 +82,21 @@ Access to admin panel
 	Pass: 123456
   
 
-In admin panel you can:
+### In admin panel you can:
 
-    Change the site name
-    Change the site title welcome
-    Statistics
-    Set keywords for the site. (SEO)
-    Add a description (SEO)
-    Create/Edit pages e.g.: Help, Privacy, etc.
-    Payments Settings.
-    See Donations
-    Set up social accounts
-    Manage members.
-    Add / Edit members.
-    Manage campaigns.
-    Add / Edit Campaigns.
+*Change the site name
+*Change the site title welcome
+*Statistics
+*Set keywords for the site. (SEO)
+*Add a description (SEO)
+*Create/Edit pages e.g.: Help, Privacy, etc.
+*Payments Settings.
+*See Donations
+*Set up social accounts
+*Manage members.
+*Add / Edit members.
+*Manage campaigns.
+*Add / Edit Campaigns.
 
 ## License
 
