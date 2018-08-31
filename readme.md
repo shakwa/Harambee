@@ -51,11 +51,11 @@ Open the file .env located in your root folder, with any text editor, e.g: NOTEP
 
 Database Connection
 
-  	```
+ 
   	DB_DATABASE=YOU_DATABASE
 	DB_USERNAME=YOU_USERNAME
 	DB_PASSWORD=YOU_PASSWORD
-    ```
+   
   
 
 place all data without spaces
@@ -64,12 +64,10 @@ Save and close.
 #### Mail Set Up
 Open the file mail.php located in the folder config, with any text editor, e.g: NOTEPAD
 
-        ```php
       	'from' => [
             'address' => 'no-reply@miguelvasquez.net',
             'name' => 'Fundme',
-        ],
-        ```  
+        ], 
 
 Save and close.
 
@@ -84,19 +82,19 @@ Access to admin panel
 
 ### In admin panel you can:
 
-*Change the site name
-*Change the site title welcome
-*Statistics
-*Set keywords for the site. (SEO)
-*Add a description (SEO)
-*Create/Edit pages e.g.: Help, Privacy, etc.
-*Payments Settings.
-*See Donations
-*Set up social accounts
-*Manage members.
-*Add / Edit members.
-*Manage campaigns.
-*Add / Edit Campaigns.
+* Change the site name
+* Change the site title welcome
+* Statistics
+* Set keywords for the site. (SEO)
+* Add a description (SEO)
+* Create/Edit pages e.g.: Help, Privacy, etc.
+* Payments Settings.
+* See Donations
+* Set up social accounts
+* Manage members.
+* Add / Edit members.
+* Manage campaigns.
+* Add / Edit Campaigns.
 
 ## License
 
